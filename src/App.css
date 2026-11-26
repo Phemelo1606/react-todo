@@ -30,7 +30,8 @@ main {
 
 .header {
   display: flex;
-  width: 390px;
+  width: 650px;
+  justify-content: left;
   gap: 20px;
 }
 

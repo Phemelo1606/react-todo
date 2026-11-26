@@ -1,7 +1,7 @@
 type Todo = {
   id: string;
   completed: boolean;
-  task: string;
+  taskTitle: string;
   description: string;
   dueDate: Date;
 };
